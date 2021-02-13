@@ -20,3 +20,14 @@ function factorial(num) {
    f = i*f
   }
   return f;
+  }
+console.log(factorial( 12));
+
+```
+
+ ## 5. Education:
+##### Mozyr State Pedagogical University named after I.P.Shamyakin   
+The Department of Foreign Languages   
+Teaching of English language and Informatics
+## 6. English language level: 
+B2 (Upper-Intermediate English) 
