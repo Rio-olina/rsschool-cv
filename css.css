@@ -1,0 +1,132 @@
+
+{margin: 0 auto;
+  padding: 0;
+}
+ 
+body {
+  font: 16px 'Roboto';
+  
+}
+ 
+/* задаем свойства Scills */
+aside {
+    display: block;
+    margin: 0 auto;
+    background: #f0f0f0;
+    padding: 0px;
+    width: 200px;
+    float: right;
+}
+
+
+.conteiner {
+  width: 1100px;
+  margin: 0 auto;
+  padding: 0 auto;
+  background:WhiteSmoke;
+  
+}
+ 
+.header {
+  padding: 20px 0;
+  width: 1100px;
+  font-size: 21px;
+  background:WhiteSmoke;
+}
+ 
+/* задаем свойства изображению в header */
+
+.header img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  padding: 10px 10px;
+}
+ 
+
+
+.photo,
+.author {
+  display: inline-block;
+}
+ 
+.author {
+  margin-left: 50px;
+  vertical-align: top;
+}
+ 
+ 
+/* задаем свойства заголовку */
+ 
+h1 {
+  text-align: center;
+  color: #2c3e50;
+}
+ 
+ 
+/* задаем свойства горизонтальной линии */
+ 
+hr {
+  border: none;
+  color: #eee;
+  background-color: #eee;
+  height: 2px;
+}
+ 
+ 
+/* задаем свойства тексту */
+ 
+p {
+  text-align: left;
+  color: #34495e;
+}
+ 
+a {
+  text-decoration: none;
+  color: #3498db;
+}
+
+/* задаем свойства списку */ 
+li {
+  margin: 10px 0;
+  list-style-type: circle;
+  
+}
+
+
+/* задаем свойства иконкам */ 
+img {
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 5px;
+  height: 30px;
+  wight: 30px;
+}
+ 
+.contacts {
+  text-align: right;
+}
+
+/* задаем свойства контактам */
+section {
+display: block;
+margin: 0 auto;
+background: #f0f0f0;
+padding: 0px;
+width: 220px;
+float: left;
+}
+
+
+main{
+float: left;
+background:lavender;
+width: 680px;
+font: 18px 'Roboto'
+}
+
+
+footer{
+float: bottom;
+background:WhiteSmoke;
+}
